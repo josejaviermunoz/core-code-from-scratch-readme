@@ -27,14 +27,14 @@ Modern Java technology compiles in real time as it is ran.
 
 **Available Instructions:**
 
-Starting point: START
-Input: READ, GET
-Output: PRINT 
-Math: +, -, *, /
-Assignation: <--
-Initialize: SET, INIT
-Add one: INCREMENT
-End point: END
+- Starting point: START
+- Input: READ, GET
+- Output: PRINT
+- Math: +, -, *, /
+- Assignation: <--
+- Initialize: SET, INIT
+- Add one: INCREMENT
+- End point: END
 
 **Currency convertor:**
 
