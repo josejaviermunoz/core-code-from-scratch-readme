@@ -104,3 +104,13 @@ Date of birth: September 10, 1998
               la $a0 result_message
               syscall
 ```
+
+## Thursday:
+
+**Print special numbers:**
+
+```
+for (var i = 0; i <= 100; i++) {
+	if (i % 2 == 0) console.log(i);
+}
+```
