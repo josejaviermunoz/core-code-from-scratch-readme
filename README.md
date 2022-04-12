@@ -1,5 +1,7 @@
 # core-code-from-scratch-readme
 
+[link text](core-code-from-scratch-readme/week1 "Week 1 Link")
+
 # Week 1
 
 ## Tuesday:
