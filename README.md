@@ -1,6 +1,6 @@
 # core-code-from-scratch-readme
 
-[link text](core-code-from-scratch-readme/Week1.md "Week 1 Link")
+[Week 1 Link](files/core-code-from-scratch-readme/Week1.md "Week 1 Link")
 
 # Week 1
 
