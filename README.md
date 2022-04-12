@@ -1,6 +1,5 @@
 # core-code-from-scratch-readme
 
----
 # Week 1
 
 ## Tuesday:
@@ -24,9 +23,31 @@ Java is both, which in mortal terms means that it is compiled in a 2 step proces
 
 Modern Java technology compiles in real time as it is ran.
 
+### **Pseudocode currency converter**
 
+**Available Instructions:**
 
+Starting point: START
+Input: READ, GET
+Output: PRINT 
+Math: +, -, *, /
+Assignation: <--
+Initialize: SET, INIT
+Add one: INCREMENT
+End point: END
 
+**Currency convertor:**
 
+1. START
+2. Bitcoin <-- 39626.80
+3. AmountUSD <-- GET
+4. Var <-- AmountUSD / Bitcoin 
+5. PRINT Var Bitcoin
+6. END
 
 ---
+
+
+
+
+
