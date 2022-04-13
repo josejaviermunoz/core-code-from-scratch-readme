@@ -114,3 +114,36 @@ for (var i = 0; i <= 100; i++) {
 	if (i % 2 == 0) console.log(i);
 }
 ```
+**Bad Code Exercise 1:**
+
+**Reason:** in order to have a comparison we need to do ==, only using 1 = assign the variable to something. 
+
+***Correct code:***
+
+```
+var cond = false;
+
+if ((cond == true)) {
+  console.log('The cond variable is true');
+} else {
+  console.log('The cond variable is false');
+}
+```
+
+
+**Bad Code Excercise 2:**
+
+**Reason:** It was needed to put conditionals inside “else if” functions to make the second statement. The “if” logic was wrong, it triggering new funtions that were not being compared to the previous one.
+
+***Correct code:***
+```
+var n = 100;
+
+if (n == 100) {
+  console.log('This is a special number!');
+} else if (n < 1000 && n % 10 == 0 && n != 100) {
+  console.log('This number is almost special');
+} else {
+  console.log('Just a regular number');
+}
+```
